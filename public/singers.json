@@ -2,13 +2,13 @@
   {
     "name": "Shaan",
     "serialNo": 1,
-    
+
     "age": 48,
     "id": 111,
     "profession": "playback-singer",
     "BestSong": "Chand Sifarish",
-    "totalIncome":5000,
-    "album":10,
+    "totalIncome": 5000,
+    "album": 10,
 
     "img": "https://images.indiawords.com/wp-content/uploads/2018/02/hot-smiling-pics-of-Shaan.jpg"
   },
@@ -19,8 +19,8 @@
     "age": 48,
     "profession": "playback-singer,director",
     "BestSong": "Abhi mujhme kahin",
-    "totalIncome":7000,
-    "album":15,
+    "totalIncome": 7000,
+    "album": 15,
     "img": "https://wallpapercave.com/wp/wp4101518.jpg"
   },
   {
@@ -30,8 +30,8 @@
     "age": 37,
     "profession": "playback-singer",
     "BestSong": "Pherari mon",
-    "totalIncome":6000,
-    "album":12,
+    "totalIncome": 6000,
+    "album": 12,
     "img": "https://yt3.ggpht.com/ytc/AKedOLRY4rchhnxD-RPXqlgQERE0lnfkgqyt3mDHrtzu=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -41,8 +41,8 @@
     "age": 34,
     "profession": "playback-singer",
     "BestSong": "Agar tum sath ho",
-    "totalIncome":5000,
-    "album":17,
+    "totalIncome": 5000,
+    "album": 17,
     "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/02/18/Pictures/_c111f9ce-5212-11ea-b246-02cea10d1852.jpg"
   },
   {
@@ -52,8 +52,8 @@
     "age": 55,
     "profession": "playback-singer",
     "BestSong": "Mera dil bhi",
-    "totalIncome":6500,
-    "album":21,
+    "totalIncome": 6500,
+    "album": 21,
     "img": "https://www.koimoi.com/wp-content/new-galleries/2019/05/alka-yagnik-is-number-one-on-this-list-0001.jpg"
   },
   {
@@ -63,8 +63,8 @@
     "age": 65,
     "profession": "playback-singer",
     "BestSong": "Pehla nesha",
-    "totalIncome":5400,
-    "album":22,
+    "totalIncome": 5400,
+    "album": 22,
     "img": "https://i.pinimg.com/originals/d9/a6/05/d9a605bd4140293204ccd1c0e6c28f45.jpg"
   },
   {
@@ -74,8 +74,8 @@
     "age": 38,
     "profession": "playback-singer",
     "BestSong": "Mere haath main",
-    "totalIncome":4000,
-    "album":9,
+    "totalIncome": 4000,
+    "album": 9,
     "img": "https://www.india.com/wp-content/uploads/2017/01/8-29.jpg"
   },
   {
@@ -85,8 +85,8 @@
     "age": 58,
     "profession": "playback-singer,actor",
     "BestSong": "Roop tera mastana",
-    "totalIncome":9000,
-    "album":20,
+    "totalIncome": 9000,
+    "album": 20,
     "img": "https://stat1.bollywoodhungama.in/wp-content/uploads/2017/10/12-Rare-aspects-of-the-genius-that-was-Kishore-Kumar.jpg"
   },
   {
@@ -96,8 +96,8 @@
     "age": 94,
     "profession": "playback-singer, music director, musician ",
     "BestSong": "Ami niralay bose",
-    "totalIncome":9500,
-    "album":22,
+    "totalIncome": 9500,
+    "album": 22,
     "img": "https://www.filmibeat.com/ph-big/2013/10/manna-dey_138258844750.jpg"
   }
 ]
