@@ -1,0 +1,25 @@
+.logo{
+    height: 100px;
+}
+.header-title{
+    background-color: #a02d15;
+  
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+width: 50%;
+text-align: center;
+
+}
+.header{
+    
+    background-color: #f08f80ab;
+ 
+    padding: 20px;
+    color: #56423E;
+    
+}
+.heading-class{
+    display: flex;
+    justify-content: center;
+}

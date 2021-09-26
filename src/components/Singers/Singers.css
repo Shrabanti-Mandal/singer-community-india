@@ -1,0 +1,16 @@
+.singers-container{
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.singer-container{
+
+    padding: 20px;
+    padding-right: 0%;
+    
+}
+.vote-container{
+    color: white;
+
+}
